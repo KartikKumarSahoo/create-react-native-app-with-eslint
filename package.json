@@ -1,5 +1,5 @@
 {
-  "name": "caratlane-native",
+  "name": "react-native-eslint-prettier",
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
