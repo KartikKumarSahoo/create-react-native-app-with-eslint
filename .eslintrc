@@ -2,16 +2,14 @@
   "parser": "babel-eslint",
   "extends": [
     "airbnb",
-    "plugin:css-modules/recommended",
     "prettier",
     "prettier/react"
   ],
-  "plugins": ["css-modules", "prettier", "react", "jsx-a11y", "jest"],
+  "plugins": ["prettier", "react", "jsx-a11y", "jest"],
   "globals": {
     "__DEV__": true
   },
   "env": {
-    "browser": true,
     "node": true
   },
   "rules": {
